@@ -1,0 +1,15 @@
+Flask
+scikit-learn
+pandas
+numpy
+matplotlib
+tensorflow==2.15
+keras==2.15
+# pickle5
+nltk
+beautifulsoup4
+parse
+requests
+apscheduler
+schedule
+Gunicorn
