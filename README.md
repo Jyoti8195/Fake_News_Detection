@@ -2,7 +2,7 @@
 This is a app which we can use to classify a news to be fake or true.
 
 
-### Software and tools Requireements.
+### Software and tools Requirements.
 
 1. [Github Account](https://github.com)
 2. [VS Code IDE](https://code.visualstudio.com/)
